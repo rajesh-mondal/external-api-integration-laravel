@@ -14,6 +14,7 @@
         <table>
             <thead>
                 <tr>
+                    <th></th>
                     <th>Location</th>
                     <th>Country</th>
                     <th>Tempreture</th>
